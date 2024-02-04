@@ -11,7 +11,7 @@ class Product {
   }
 }
 
-public class Lecture_14 {
+public class Lecture_17 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
